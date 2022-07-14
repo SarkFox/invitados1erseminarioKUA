@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/invitados1erseminarioKUA/static/css/main.2a9c3833.css",
+    "main.js": "/invitados1erseminarioKUA/static/js/main.ace6f253.js",
+    "static/media/bloque-martin.png": "/invitados1erseminarioKUA/static/media/bloque-martin.6ec5c127fcbdf2a73221.png",
+    "static/media/bloque-alvaro.png": "/invitados1erseminarioKUA/static/media/bloque-alvaro.f734ed5fa49ec201e674.png",
+    "static/media/bloque-covo.png": "/invitados1erseminarioKUA/static/media/bloque-covo.c366d5c11cb0d4077928.png",
+    "static/media/logo.svg": "/invitados1erseminarioKUA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/invitados1erseminarioKUA/index.html",
+    "main.2a9c3833.css.map": "/invitados1erseminarioKUA/static/css/main.2a9c3833.css.map",
+    "main.ace6f253.js.map": "/invitados1erseminarioKUA/static/js/main.ace6f253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9c3833.css",
+    "static/js/main.ace6f253.js"
+  ]
+}
